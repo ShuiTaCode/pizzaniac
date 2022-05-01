@@ -14,7 +14,8 @@
     "primeicons": "^5.0.0",
     "primevue": "^3.12.5",
     "vue": "^3.2.13",
-    "http-server": "^14.1.0"
+    "http-server": "^14.1.0",
+    "@vue/cli-service": "~5.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
